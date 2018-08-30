@@ -42,7 +42,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #333333;
-  background-color: #333333;
+  background-color: black;
 }
 
 hr.star-dark {
@@ -104,7 +104,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #fff;
+  color: #333333;
 }
 
 #mainNav .navbar-nav {
