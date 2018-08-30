@@ -37,7 +37,7 @@ hr.star-dark:after {
 }
 
 hr.star-light {
-  border-color: #fff;
+  border-color: #333333;
 }
 
 hr.star-light:after {
@@ -46,11 +46,11 @@ hr.star-light:after {
 }
 
 hr.star-dark {
-  border-color: #2C3E50;
+  border-color: #333333;
 }
 
 hr.star-dark:after {
-  color: #2C3E50;
+  color: #333333;
   background-color: white;
 }
 
